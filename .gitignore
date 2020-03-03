@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches/build_file_checksums.ser
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+/.idea
+.externalNativeBuild
+app-debug.apk
+app-debug-androidTest.apk
+app/libs/libandroid-navigation-release.aar
+app/libs/libandroid-navigation-ui-release.aar
